@@ -1,1 +1,1 @@
-Repositório de imagens utilizadas no sistema de Análise Cadastral
+Repositório de imagens da equipe de desenvolvimento.
